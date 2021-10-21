@@ -13,7 +13,6 @@ include = [
     "Cargo.toml",
 ]
 edition = "2018"
-resolver = "2"
 
 [lib]
 name = "sqlparser"
